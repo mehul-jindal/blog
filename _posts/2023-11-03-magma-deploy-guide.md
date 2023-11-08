@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 ---
 
 # Install Docker-based Access Gateway on Ubuntu
